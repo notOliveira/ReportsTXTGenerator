@@ -23,6 +23,5 @@ public class RelatorioController {
     @PostMapping("/createReport")
     public void createReport(@RequestBody SumarioDTO sumario) throws IOException {
         relatorioService.createReport(sumario);
-
     }
 }

@@ -96,4 +96,5 @@ public class RelatorioService {
         ObjectMapper mapper = new ObjectMapper();
         mapper.writerWithDefaultPrettyPrinter().writeValue(new File(nomeArquivo), dados);
     }
+
 }
