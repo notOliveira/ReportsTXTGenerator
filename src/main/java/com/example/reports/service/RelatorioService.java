@@ -4,6 +4,7 @@ import com.example.reports.dto.SumarioDTO;
 import com.example.reports.model.Cliente;
 import com.example.reports.model.TipoPessoaBloco;
 import com.example.reports.repository.ClienteRepository;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import com.github.mustachejava.DefaultMustacheFactory;
 import com.github.mustachejava.Mustache;
 import com.github.mustachejava.MustacheFactory;
@@ -57,6 +58,8 @@ public class RelatorioService {
 
         dados.put("pessoas", pessoas);
 
+        salvarDadosComoJson(dados, String.format(String.format("dados_relatorio_%s.txt", UUID.randomUUID())));
+
         // Carrega e compila o template Mustache
         InputStream templateStream = new ClassPathResource("templates/template.mustache").getInputStream();
         MustacheFactory mf = new DefaultMustacheFactory();
@@ -87,5 +90,10 @@ public class RelatorioService {
             cliente.setTipoPessoa(tipos[random.nextInt(tipos.length)]);
             clienteRepository.insert(cliente);
         }
+    }
+
+    public void salvarDadosComoJson(Map<String, Object> dados, String nomeArquivo) throws IOException {
+        ObjectMapper mapper = new ObjectMapper();
+        mapper.writerWithDefaultPrettyPrinter().writeValue(new File(nomeArquivo), dados);
     }
 }

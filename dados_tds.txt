@@ -1,0 +1,609 @@
+{
+  "nomeRelatorio" : "Faturamento",
+  "pessoas" : [ {
+    "tipo" : "Física",
+    "clientes" : [ {
+      "id" : "686a90cebc1f24c2946cd0a0",
+      "nome" : "Cliente 0",
+      "numContrato" : "CTN957703",
+      "dataNascimento" : "1900/01/01",
+      "tipoPessoa" : "F"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0a3",
+      "nome" : "Cliente 3",
+      "numContrato" : "CTN306999",
+      "dataNascimento" : "1903/01/01",
+      "tipoPessoa" : "F"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0a5",
+      "nome" : "Cliente 5",
+      "numContrato" : "CTN393362",
+      "dataNascimento" : "1905/01/01",
+      "tipoPessoa" : "F"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0a6",
+      "nome" : "Cliente 6",
+      "numContrato" : "CTN569893",
+      "dataNascimento" : "1906/01/01",
+      "tipoPessoa" : "F"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0ab",
+      "nome" : "Cliente 11",
+      "numContrato" : "CTN775688",
+      "dataNascimento" : "1911/01/01",
+      "tipoPessoa" : "F"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0ad",
+      "nome" : "Cliente 13",
+      "numContrato" : "CTN952493",
+      "dataNascimento" : "1913/01/01",
+      "tipoPessoa" : "F"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0b1",
+      "nome" : "Cliente 17",
+      "numContrato" : "CTN451762",
+      "dataNascimento" : "1917/01/01",
+      "tipoPessoa" : "F"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0b2",
+      "nome" : "Cliente 18",
+      "numContrato" : "CTN437643",
+      "dataNascimento" : "1918/01/01",
+      "tipoPessoa" : "F"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0ba",
+      "nome" : "Cliente 26",
+      "numContrato" : "CTN151056",
+      "dataNascimento" : "1926/01/01",
+      "tipoPessoa" : "F"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0bb",
+      "nome" : "Cliente 27",
+      "numContrato" : "CTN529427",
+      "dataNascimento" : "1927/01/01",
+      "tipoPessoa" : "F"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0bc",
+      "nome" : "Cliente 28",
+      "numContrato" : "CTN200769",
+      "dataNascimento" : "1928/01/01",
+      "tipoPessoa" : "F"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0be",
+      "nome" : "Cliente 30",
+      "numContrato" : "CTN858957",
+      "dataNascimento" : "1930/01/01",
+      "tipoPessoa" : "F"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0bf",
+      "nome" : "Cliente 31",
+      "numContrato" : "CTN277092",
+      "dataNascimento" : "1931/01/01",
+      "tipoPessoa" : "F"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0c6",
+      "nome" : "Cliente 38",
+      "numContrato" : "CTN915844",
+      "dataNascimento" : "1938/01/01",
+      "tipoPessoa" : "F"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0ca",
+      "nome" : "Cliente 42",
+      "numContrato" : "CTN899826",
+      "dataNascimento" : "1942/01/01",
+      "tipoPessoa" : "F"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0cc",
+      "nome" : "Cliente 44",
+      "numContrato" : "CTN160009",
+      "dataNascimento" : "1944/01/01",
+      "tipoPessoa" : "F"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0ce",
+      "nome" : "Cliente 46",
+      "numContrato" : "CTN696670",
+      "dataNascimento" : "1946/01/01",
+      "tipoPessoa" : "F"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0d3",
+      "nome" : "Cliente 51",
+      "numContrato" : "CTN862798",
+      "dataNascimento" : "1951/01/01",
+      "tipoPessoa" : "F"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0d4",
+      "nome" : "Cliente 52",
+      "numContrato" : "CTN252492",
+      "dataNascimento" : "1952/01/01",
+      "tipoPessoa" : "F"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0d9",
+      "nome" : "Cliente 57",
+      "numContrato" : "CTN922611",
+      "dataNascimento" : "1957/01/01",
+      "tipoPessoa" : "F"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0da",
+      "nome" : "Cliente 58",
+      "numContrato" : "CTN640075",
+      "dataNascimento" : "1958/01/01",
+      "tipoPessoa" : "F"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0db",
+      "nome" : "Cliente 59",
+      "numContrato" : "CTN764721",
+      "dataNascimento" : "1959/01/01",
+      "tipoPessoa" : "F"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0dd",
+      "nome" : "Cliente 61",
+      "numContrato" : "CTN662010",
+      "dataNascimento" : "1961/01/01",
+      "tipoPessoa" : "F"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0df",
+      "nome" : "Cliente 63",
+      "numContrato" : "CTN101889",
+      "dataNascimento" : "1963/01/01",
+      "tipoPessoa" : "F"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0e1",
+      "nome" : "Cliente 65",
+      "numContrato" : "CTN590713",
+      "dataNascimento" : "1965/01/01",
+      "tipoPessoa" : "F"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0e2",
+      "nome" : "Cliente 66",
+      "numContrato" : "CTN259052",
+      "dataNascimento" : "1966/01/01",
+      "tipoPessoa" : "F"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0e3",
+      "nome" : "Cliente 67",
+      "numContrato" : "CTN163216",
+      "dataNascimento" : "1967/01/01",
+      "tipoPessoa" : "F"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0e7",
+      "nome" : "Cliente 71",
+      "numContrato" : "CTN115688",
+      "dataNascimento" : "1971/01/01",
+      "tipoPessoa" : "F"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0ee",
+      "nome" : "Cliente 78",
+      "numContrato" : "CTN360191",
+      "dataNascimento" : "1978/01/01",
+      "tipoPessoa" : "F"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0f8",
+      "nome" : "Cliente 88",
+      "numContrato" : "CTN781396",
+      "dataNascimento" : "1988/01/01",
+      "tipoPessoa" : "F"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0fd",
+      "nome" : "Cliente 93",
+      "numContrato" : "CTN735202",
+      "dataNascimento" : "1993/01/01",
+      "tipoPessoa" : "F"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0ff",
+      "nome" : "Cliente 95",
+      "numContrato" : "CTN495789",
+      "dataNascimento" : "1995/01/01",
+      "tipoPessoa" : "F"
+    } ]
+  }, {
+    "tipo" : "Jurídica",
+    "clientes" : [ {
+      "id" : "686a90cebc1f24c2946cd0a1",
+      "nome" : "Cliente 1",
+      "numContrato" : "CTN156690",
+      "dataNascimento" : "1901/01/01",
+      "tipoPessoa" : "J"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0a2",
+      "nome" : "Cliente 2",
+      "numContrato" : "CTN927009",
+      "dataNascimento" : "1902/01/01",
+      "tipoPessoa" : "J"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0a8",
+      "nome" : "Cliente 8",
+      "numContrato" : "CTN598313",
+      "dataNascimento" : "1908/01/01",
+      "tipoPessoa" : "J"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0ae",
+      "nome" : "Cliente 14",
+      "numContrato" : "CTN756204",
+      "dataNascimento" : "1914/01/01",
+      "tipoPessoa" : "J"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0af",
+      "nome" : "Cliente 15",
+      "numContrato" : "CTN938041",
+      "dataNascimento" : "1915/01/01",
+      "tipoPessoa" : "J"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0b5",
+      "nome" : "Cliente 21",
+      "numContrato" : "CTN888294",
+      "dataNascimento" : "1921/01/01",
+      "tipoPessoa" : "J"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0b6",
+      "nome" : "Cliente 22",
+      "numContrato" : "CTN876074",
+      "dataNascimento" : "1922/01/01",
+      "tipoPessoa" : "J"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0c1",
+      "nome" : "Cliente 33",
+      "numContrato" : "CTN466673",
+      "dataNascimento" : "1933/01/01",
+      "tipoPessoa" : "J"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0c5",
+      "nome" : "Cliente 37",
+      "numContrato" : "CTN365085",
+      "dataNascimento" : "1937/01/01",
+      "tipoPessoa" : "J"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0c8",
+      "nome" : "Cliente 40",
+      "numContrato" : "CTN768933",
+      "dataNascimento" : "1940/01/01",
+      "tipoPessoa" : "J"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0c9",
+      "nome" : "Cliente 41",
+      "numContrato" : "CTN963626",
+      "dataNascimento" : "1941/01/01",
+      "tipoPessoa" : "J"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0cb",
+      "nome" : "Cliente 43",
+      "numContrato" : "CTN383109",
+      "dataNascimento" : "1943/01/01",
+      "tipoPessoa" : "J"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0cd",
+      "nome" : "Cliente 45",
+      "numContrato" : "CTN493776",
+      "dataNascimento" : "1945/01/01",
+      "tipoPessoa" : "J"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0cf",
+      "nome" : "Cliente 47",
+      "numContrato" : "CTN187626",
+      "dataNascimento" : "1947/01/01",
+      "tipoPessoa" : "J"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0d0",
+      "nome" : "Cliente 48",
+      "numContrato" : "CTN550433",
+      "dataNascimento" : "1948/01/01",
+      "tipoPessoa" : "J"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0dc",
+      "nome" : "Cliente 60",
+      "numContrato" : "CTN792555",
+      "dataNascimento" : "1960/01/01",
+      "tipoPessoa" : "J"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0de",
+      "nome" : "Cliente 62",
+      "numContrato" : "CTN311379",
+      "dataNascimento" : "1962/01/01",
+      "tipoPessoa" : "J"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0e4",
+      "nome" : "Cliente 68",
+      "numContrato" : "CTN632461",
+      "dataNascimento" : "1968/01/01",
+      "tipoPessoa" : "J"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0e6",
+      "nome" : "Cliente 70",
+      "numContrato" : "CTN409803",
+      "dataNascimento" : "1970/01/01",
+      "tipoPessoa" : "J"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0e8",
+      "nome" : "Cliente 72",
+      "numContrato" : "CTN886066",
+      "dataNascimento" : "1972/01/01",
+      "tipoPessoa" : "J"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0e9",
+      "nome" : "Cliente 73",
+      "numContrato" : "CTN559245",
+      "dataNascimento" : "1973/01/01",
+      "tipoPessoa" : "J"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0ea",
+      "nome" : "Cliente 74",
+      "numContrato" : "CTN354606",
+      "dataNascimento" : "1974/01/01",
+      "tipoPessoa" : "J"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0ec",
+      "nome" : "Cliente 76",
+      "numContrato" : "CTN693658",
+      "dataNascimento" : "1976/01/01",
+      "tipoPessoa" : "J"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0ef",
+      "nome" : "Cliente 79",
+      "numContrato" : "CTN639099",
+      "dataNascimento" : "1979/01/01",
+      "tipoPessoa" : "J"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0f2",
+      "nome" : "Cliente 82",
+      "numContrato" : "CTN682864",
+      "dataNascimento" : "1982/01/01",
+      "tipoPessoa" : "J"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0f6",
+      "nome" : "Cliente 86",
+      "numContrato" : "CTN385887",
+      "dataNascimento" : "1986/01/01",
+      "tipoPessoa" : "J"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0f9",
+      "nome" : "Cliente 89",
+      "numContrato" : "CTN915244",
+      "dataNascimento" : "1989/01/01",
+      "tipoPessoa" : "J"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0fa",
+      "nome" : "Cliente 90",
+      "numContrato" : "CTN855281",
+      "dataNascimento" : "1990/01/01",
+      "tipoPessoa" : "J"
+    }, {
+      "id" : "686a90cebc1f24c2946cd101",
+      "nome" : "Cliente 97",
+      "numContrato" : "CTN551243",
+      "dataNascimento" : "1997/01/01",
+      "tipoPessoa" : "J"
+    } ]
+  }, {
+    "tipo" : "Inativa",
+    "clientes" : [ {
+      "id" : "686a90cebc1f24c2946cd0a4",
+      "nome" : "Cliente 4",
+      "numContrato" : "CTN437418",
+      "dataNascimento" : "1904/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0a7",
+      "nome" : "Cliente 7",
+      "numContrato" : "CTN300348",
+      "dataNascimento" : "1907/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0a9",
+      "nome" : "Cliente 9",
+      "numContrato" : "CTN170008",
+      "dataNascimento" : "1909/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0aa",
+      "nome" : "Cliente 10",
+      "numContrato" : "CTN653488",
+      "dataNascimento" : "1910/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0ac",
+      "nome" : "Cliente 12",
+      "numContrato" : "CTN916990",
+      "dataNascimento" : "1912/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0b0",
+      "nome" : "Cliente 16",
+      "numContrato" : "CTN340720",
+      "dataNascimento" : "1916/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0b3",
+      "nome" : "Cliente 19",
+      "numContrato" : "CTN493894",
+      "dataNascimento" : "1919/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0b4",
+      "nome" : "Cliente 20",
+      "numContrato" : "CTN410510",
+      "dataNascimento" : "1920/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0b7",
+      "nome" : "Cliente 23",
+      "numContrato" : "CTN521280",
+      "dataNascimento" : "1923/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0b8",
+      "nome" : "Cliente 24",
+      "numContrato" : "CTN826739",
+      "dataNascimento" : "1924/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0b9",
+      "nome" : "Cliente 25",
+      "numContrato" : "CTN688829",
+      "dataNascimento" : "1925/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0bd",
+      "nome" : "Cliente 29",
+      "numContrato" : "CTN801928",
+      "dataNascimento" : "1929/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0c0",
+      "nome" : "Cliente 32",
+      "numContrato" : "CTN760263",
+      "dataNascimento" : "1932/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0c2",
+      "nome" : "Cliente 34",
+      "numContrato" : "CTN462237",
+      "dataNascimento" : "1934/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0c3",
+      "nome" : "Cliente 35",
+      "numContrato" : "CTN592690",
+      "dataNascimento" : "1935/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0c4",
+      "nome" : "Cliente 36",
+      "numContrato" : "CTN522973",
+      "dataNascimento" : "1936/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0c7",
+      "nome" : "Cliente 39",
+      "numContrato" : "CTN372086",
+      "dataNascimento" : "1939/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0d1",
+      "nome" : "Cliente 49",
+      "numContrato" : "CTN594562",
+      "dataNascimento" : "1949/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0d2",
+      "nome" : "Cliente 50",
+      "numContrato" : "CTN132876",
+      "dataNascimento" : "1950/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0d5",
+      "nome" : "Cliente 53",
+      "numContrato" : "CTN481963",
+      "dataNascimento" : "1953/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0d6",
+      "nome" : "Cliente 54",
+      "numContrato" : "CTN628425",
+      "dataNascimento" : "1954/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0d7",
+      "nome" : "Cliente 55",
+      "numContrato" : "CTN235154",
+      "dataNascimento" : "1955/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0d8",
+      "nome" : "Cliente 56",
+      "numContrato" : "CTN661171",
+      "dataNascimento" : "1956/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0e0",
+      "nome" : "Cliente 64",
+      "numContrato" : "CTN708017",
+      "dataNascimento" : "1964/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0e5",
+      "nome" : "Cliente 69",
+      "numContrato" : "CTN843045",
+      "dataNascimento" : "1969/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0eb",
+      "nome" : "Cliente 75",
+      "numContrato" : "CTN992461",
+      "dataNascimento" : "1975/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0ed",
+      "nome" : "Cliente 77",
+      "numContrato" : "CTN512153",
+      "dataNascimento" : "1977/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0f0",
+      "nome" : "Cliente 80",
+      "numContrato" : "CTN190731",
+      "dataNascimento" : "1980/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0f1",
+      "nome" : "Cliente 81",
+      "numContrato" : "CTN139595",
+      "dataNascimento" : "1981/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0f3",
+      "nome" : "Cliente 83",
+      "numContrato" : "CTN142314",
+      "dataNascimento" : "1983/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0f4",
+      "nome" : "Cliente 84",
+      "numContrato" : "CTN990678",
+      "dataNascimento" : "1984/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0f5",
+      "nome" : "Cliente 85",
+      "numContrato" : "CTN258591",
+      "dataNascimento" : "1985/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0f7",
+      "nome" : "Cliente 87",
+      "numContrato" : "CTN801196",
+      "dataNascimento" : "1987/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0fb",
+      "nome" : "Cliente 91",
+      "numContrato" : "CTN868363",
+      "dataNascimento" : "1991/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0fc",
+      "nome" : "Cliente 92",
+      "numContrato" : "CTN803017",
+      "dataNascimento" : "1992/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd0fe",
+      "nome" : "Cliente 94",
+      "numContrato" : "CTN768471",
+      "dataNascimento" : "1994/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd100",
+      "nome" : "Cliente 96",
+      "numContrato" : "CTN334051",
+      "dataNascimento" : "1996/01/01",
+      "tipoPessoa" : "I"
+    }, {
+      "id" : "686a90cebc1f24c2946cd102",
+      "nome" : "Cliente 98",
+      "numContrato" : "CTN141454",
+      "dataNascimento" : "1998/01/01",
+      "tipoPessoa" : "I"
+    } ]
+  } ],
+  "nomeCiclo" : "Especial 2022",
+  "dataHora" : "2025-07-06T12:23:03.816662100"
+}
